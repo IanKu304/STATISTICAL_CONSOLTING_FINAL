@@ -1,0 +1,61 @@
+﻿Model,Type,Metric,Value
+Linear Regression,Performance,Train_RMSE,0.0005946261939812391
+Linear Regression,Performance,Test_RMSE,0.10260170702410905
+Linear Regression,Performance,Train_R2,0.999998862430601
+Linear Regression,Performance,Test_R2,0.7703108871185749
+Lasso,Performance,Train_RMSE,0.10995915774250806
+Lasso,Performance,Test_RMSE,0.12231316591178366
+Lasso,Performance,Train_R2,0.9610997280789074
+Lasso,Performance,Test_R2,0.6735793294716269
+Ridge,Performance,Train_RMSE,0.0068666732573409986
+Ridge,Performance,Test_RMSE,0.12416934019913656
+Ridge,Performance,Train_R2,0.9998483010436677
+Ridge,Performance,Test_R2,0.663596903665334
+Random Forest,Performance,Train_RMSE,0.02215751048508905
+Random Forest,Performance,Test_RMSE,0.23544402846283588
+Random Forest,Performance,Train_R2,0.9984204559027734
+Random Forest,Performance,Test_R2,-0.20950201884568576
+Gradient Boosting,Performance,Train_RMSE,0.002274197585883375
+Gradient Boosting,Performance,Test_RMSE,0.2128862860966265
+Gradient Boosting,Performance,Train_R2,0.9999833602722511
+Gradient Boosting,Performance,Test_R2,0.01115867288519079
+XGBoost,Performance,Train_RMSE,0.00035336117430337214
+XGBoost,Performance,Test_RMSE,0.21539247209665352
+XGBoost,Performance,Train_R2,0.9999995982762695
+XGBoost,Performance,Test_R2,-0.012260474083179984
+Linear Regression,Future_Prediction,Month_1,3.230684669866839
+Linear Regression,Future_Prediction,Month_2,3.229573761036132
+Linear Regression,Future_Prediction,Month_3,3.2284411887227664
+Linear Regression,Future_Prediction,Month_4,3.2281382591497194
+Linear Regression,Future_Prediction,Month_5,3.2280378096759534
+Linear Regression,Future_Prediction,Month_6,3.229499273190501
+Lasso,Future_Prediction,Month_1,3.530284396743295
+Lasso,Future_Prediction,Month_2,3.530284396743295
+Lasso,Future_Prediction,Month_3,3.530284396743295
+Lasso,Future_Prediction,Month_4,3.530284396743295
+Lasso,Future_Prediction,Month_5,3.530284396743295
+Lasso,Future_Prediction,Month_6,3.530284396743295
+Ridge,Future_Prediction,Month_1,3.5630058040524366
+Ridge,Future_Prediction,Month_2,3.5656147014094666
+Ridge,Future_Prediction,Month_3,3.5632730469872076
+Ridge,Future_Prediction,Month_4,3.5619040268574347
+Ridge,Future_Prediction,Month_5,3.560798965286695
+Ridge,Future_Prediction,Month_6,3.561978177270074
+Random Forest,Future_Prediction,Month_1,3.767655129273879
+Random Forest,Future_Prediction,Month_2,3.7673291343142403
+Random Forest,Future_Prediction,Month_3,3.7673291343142403
+Random Forest,Future_Prediction,Month_4,3.7672668609098627
+Random Forest,Future_Prediction,Month_5,3.7673374803341284
+Random Forest,Future_Prediction,Month_6,3.7673374803341284
+Gradient Boosting,Future_Prediction,Month_1,3.7348873432138956
+Gradient Boosting,Future_Prediction,Month_2,3.7348873432138956
+Gradient Boosting,Future_Prediction,Month_3,3.7348873432138956
+Gradient Boosting,Future_Prediction,Month_4,3.7343188168359465
+Gradient Boosting,Future_Prediction,Month_5,3.7343188168359465
+Gradient Boosting,Future_Prediction,Month_6,3.7343188168359465
+XGBoost,Future_Prediction,Month_1,3.7397232055664062
+XGBoost,Future_Prediction,Month_2,3.7397232055664062
+XGBoost,Future_Prediction,Month_3,3.7397232055664062
+XGBoost,Future_Prediction,Month_4,3.7397232055664062
+XGBoost,Future_Prediction,Month_5,3.7397232055664062
+XGBoost,Future_Prediction,Month_6,3.7397232055664062
